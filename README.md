@@ -35,3 +35,19 @@ Add subtle texture and motion to your hero section without killing performance.
   opacity={0.05}
   backgroundColor="white"
 />
+
+/* 
+⚠️ Known Issue
+The `backgroundColor` prop is currently not applied correctly to the canvas fill.
+If you know a way to fix this in React + <canvas>, please drop a comment or issue.
+I'd love to enable dark mode themes soon.
+
+🧪 Live Example
+👉 See it in action on my portfolio site
+(Check the hero section – https://www.notafr8studio.com)
+
+🙌 Credits
+Idea and implementation by @Fr3akyBeakyLike
+Code scaffolded using Figma's AI code assistant
+Inspired by CSS noise experiments and hero texture layering
+*/
